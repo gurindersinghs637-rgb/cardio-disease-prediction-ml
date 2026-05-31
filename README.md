@@ -69,14 +69,14 @@ Accuracy: 64.00%
 
 Logistic Regression achieved the highest accuracy and was selected as the final prediction model.
 
-Final Accuracy: 72.66%
 
-🛠 Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Pickle
-Jupyter Notebook
+How to Open and Run the Project
+If the Notebook Does Not Open on GitHub
+
+Sometimes GitHub may display an error while previewing large Jupyter Notebook (.ipynb) files. If this happens:
+
+Click the Download Raw File option from GitHub.
+Save the notebook file to your local system.
+Open Jupyter Notebook, JupyterLab, or VS Code.
+Navigate to the project folder.
+Open the downloaded .ipynb file locally.
